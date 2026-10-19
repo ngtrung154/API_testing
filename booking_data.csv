@@ -1,0 +1,4 @@
+firstname,lastname,totalprice,depositpaid,checkin,checkout,additionalneeds
+Nguyen,An,1500,TRUE,11/1/2026,11/5/2026,Breakfast
+Tran,Binh,800,FALSE,11/10/2026,11/12/2026,Extra Pillow
+Le,Chi,2500,TRUE,12/1/2026,12/10/2026,Late Checkout
